@@ -1,0 +1,7 @@
+httpswww.techrepublic.comblogmicrosoft-officequick-tip-find-excels-xlstart-folder-fast
+
+? application.StartupPath
+
+C:\Users\gaglueck\AppData\Roaming\Microsoft\Excel\Xlstart
+
+C:\Users\gaglueck\AppData\Roaming\Microsoft\Excel\Xlstart\backup
